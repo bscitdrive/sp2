@@ -1,3 +1,5 @@
+/* Locate all elements with tagname “input” on the given website 
+http://demo.guru99.com/test/facebook.html */
 
 import java.util.List;
 
@@ -31,3 +33,4 @@ public class Prac2_1_TagName {
 	}
 
 }
+
