@@ -1,4 +1,7 @@
-
+/*
+Locate all elements with classname “inputtext” on the given website 
+http://demo.guru99.com/test/facebook.html 
+*/
 import java.util.List;
 
 import org.openqa.selenium.By;
@@ -24,3 +27,4 @@ public class Prac2_2_ClassName {
 	}
 
 }
+
