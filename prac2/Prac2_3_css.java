@@ -1,4 +1,7 @@
-
+/*
+Write a selenium script to use css locators to find elements on the following wepage  
+https://demoqa.com/automation-practice-form. 
+*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -32,3 +35,4 @@ public class Prac2_3_css {
 	}
 
 }
+
