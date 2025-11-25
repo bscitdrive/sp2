@@ -1,4 +1,7 @@
-
+/*
+Write a script to locate elements on https://demo.guru99.com/test/selenium-xpath.html 
+using xpath.
+*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -29,3 +32,4 @@ public class Prac2_5_xPath {
 	}
 
 }
+
